@@ -4,7 +4,7 @@ This repository contains a series of machine learning projects that focus on bot
 
 By exploring this repository, you will learn about a variety of machine learning techniques, their implementation, and their applications in solving real-world problems.
 
-## Topic Covered in this project include:
+## Topics Covered in this Project Include:
 
 1. [Supervised Learning](#supervised-learning)
    - K-Nearest Neighbors
